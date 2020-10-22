@@ -1,3 +1,3 @@
 # udemy_BasicCssSelectors
 
-udemy Section 9, Basic Selectors Practice
+udemy Section 7, Basic Selectors Practice
